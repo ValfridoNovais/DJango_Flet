@@ -6,6 +6,9 @@
 !*/urls.py
 !*/settings.py
 !*/manage.py
+!*/urls*
+!*/models.py
+!*/apps.py
 
 # And also not these directories...
 !.gitignore
